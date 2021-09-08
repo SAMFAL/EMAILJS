@@ -1,0 +1,11 @@
+
+form{
+    justify-content: center;
+    padding-left: 50px;
+    border: solid;
+    width: 300px;
+    border-radius: 50px;
+}
+form p label{
+    margin-left: 0px;
+}
